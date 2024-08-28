@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Poppins-Regular" ;
+    src: url(../fonts/pp/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: "Poppins-Medium" ;
+    src: url(../fonts/pp/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: "Poppins-SemiBold" ;
+    src: url(../fonts/pp/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Poppins-Bold" ;
+    src: url(../fonts/pp/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "Quick Kiss Personal Use";
+    src: url(../fonts/quick/Quick\ Kiss\ Personal\ Use.ttf);
+}
